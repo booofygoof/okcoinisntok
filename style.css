@@ -1,0 +1,61 @@
+
+@font-face {
+    src: url(public/fonts/nordica-font/Nordicablack-Xa39.otf);
+    font-family: norse;
+}
+@font-face {
+    src: url(public/fonts/Gajraj_One/GajrajOne-Regular.ttf);
+    font-family: gajraj;
+}
+@font-face {
+    src: url(public/fonts/Gloock/Gloock-Regular.ttf);
+    font-family: gloock; 
+}
+@font-face {
+    src: url(public/fonts/Nabla/Nabla-Regular-VariableFont_EDPT\,EHLT.ttf);
+    font-family: nabla; 
+}
+@font-face {
+    src: url(public/fonts/Rubik_Burned/RubikBurned-Regular.ttf);
+    font-family: rubikburned;
+}
+@font-face {
+    src: url(public/fonts/Rubik_Maze/RubikMaze-Regular.ttf);
+    font-family: rubikmaze;
+}
+@font-face {
+    src: url(public/fonts/Rubik_Spray_Paint/RubikSprayPaint-Regular.ttf);
+    font-family:rubicpaint;
+}
+@font-face {
+    src: url(public/fonts/Rubik_Vinyl/RubikVinyl-Regular.ttf);
+    font-family: rubikvinyl;
+}
+@font-face {
+    src: url(public/fonts/Silkscreen/Silkscreen-Bold.ttf);
+    font-family: silkscreen;
+}
+
+#master {
+    width: 100vw;
+    height: 100vh;
+}
+#title {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#links {
+    text-align: center;
+}
+#bio {
+    text-align: center;
+}
+#instruction {
+    text-align: center;
+}
+#footer {
+    text-align: center;
+    float: bottom;
+}
